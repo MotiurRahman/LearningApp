@@ -36,9 +36,10 @@
             android:text="Hello, I am a Button" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/btn4"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:onClick="btn4"
             android:text="Hello, I am a Button" />
 
         <Button
