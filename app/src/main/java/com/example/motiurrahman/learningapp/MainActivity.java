@@ -18,4 +18,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
     }
 
+    Button control1 = (Button)findViewById(R.id.btn1);
+    Button control2 = (Button)findViewById(R.id.btn2);
+    Button control3 = (Button)findViewById(R.id.btn3);
+
 }
